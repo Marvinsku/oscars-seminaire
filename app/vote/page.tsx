@@ -20,8 +20,11 @@ const categories = [
   'Je Gère Tout et Même le Reste',
 ];
 
-const participants = [
-  /* vos 30 noms ici, comme avant */
+const participants: string[] = [
+  'JULIE','CORALIE','EDWIGE','FLORENCE','VALERIE','RAPHAELLE','CAROLE MLD',
+  'PATRICIA P','MATHIEU','VANESSA','CHARLES','CLEMENCE','THOMAS','SABRINA',
+  'ANGELIQUE','LYDIA','CAROLE MPT','HALIMA','PATRICIA S','DALILA','CHRISTOPHE',
+  'ELODIE','SOPHEA','NESRINE','AMANAR','YACINE','AUDREY','MARVIN','ZAHIA'
 ];
 
 export default function VotePage() {
